@@ -4,10 +4,9 @@
 dltjrwns4127@gmail.com
 
 ## Education
-```
-Ph.D. in Artificial Intelligence                                                                                                                  Feb 2020
+Ph.D. in Artificial Intelligence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feb 2020
+<br/>
 Kyonggi University, Suwon, South Korea
-```
 
 M.S. in Artificial Intelligence                                                                                                                    Feb 2017
 Kyonggi University, Suwon, South Korea
