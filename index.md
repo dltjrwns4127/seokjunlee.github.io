@@ -1,11 +1,9 @@
-## Welcome to GitHub Pages
-## Welcome to GitHub Pages
+# Seokjun Lee (이석준)
 
-You can use the [editor on GitHub](https://github.com/dltjrwns4127/seokjunlee.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
++82 - 10 - 2810 - 4127
+dltjrwns4127@gmail.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Seokjun Lee (이석준)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
