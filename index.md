@@ -1,6 +1,6 @@
 # Seokjun Lee (이석준)
 
-+82 - 10 - 2810 - 4127 <br />
++82 - 10 - 2810 - 4127  
 dltjrwns4127@gmail.com
 
 ## Seokjun Lee (이석준)
