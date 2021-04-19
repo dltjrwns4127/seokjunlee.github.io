@@ -14,7 +14,7 @@ B.S. in Computer Science　　　　　　　　　　　　　　　　　　&n
 Kyonggi University, Suwon, South Korea
 
 ## Military Service
-Air Force, South Korea　　　　　　　　　　　　　　　　　　　Jun 2010 - Jul 2012
+Air Force, South Korea　　　　　　　　　　　　　　　　　　　&nbsp;Jun 2010 - Jul 2012
 
 ## Work History
 Postdoctorial Fellow　　　　　　　　　　　　　　　　　　　　　Mar 2020 - Feb 2021
