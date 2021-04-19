@@ -22,7 +22,7 @@ Postdoctorial Fellow　　　　　　　　　　　　　　　　　　　　
 Artificial Intelligence Laboratory, Kyonngi University
 
 ## Certification and License
-· 정보처리기사 (Information Processing Engineer)
+· 정보처리기사 (Information Processing Engineer, South Korea)
 
 · OCBCD (Oracle Certified Business Component Developer)
 
