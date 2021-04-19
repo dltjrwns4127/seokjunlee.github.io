@@ -7,10 +7,10 @@ dltjrwns4127@gmail.com
 Ph.D. in Artificial Intelligence　　　　　　　　　　　　　　　　　　　　　　Feb 2020 <br/>
 Kyonggi University, Suwon, South Korea
 
-M.S. in Artificial Intelligence　　　　　　　　　　　　　　　　　　　　　　　Feb 2017 <br/>
+M.S. in Artificial Intelligence　　　　　　　　　　　　　　　　　　　　　　Feb 2017 <br/>
 Kyonggi University, Suwon, South Korea
 
-B.S. in Computer Science　　　　　　　　　　　　　　　　　　　　　　　　　　　Feb 2015 <br/>
+B.S. in Computer Science　　　　　　　　　　　　　　　　　　　　　　　　　Feb 2015 <br/>
 Kyonggi University, Suwon, South Korea
 
 ## Military Service
