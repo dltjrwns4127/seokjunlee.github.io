@@ -10,7 +10,7 @@ Kyonggi University, Suwon, South Korea
 M.S. in Artificial Intelligence　　　　　　　　　　　　　　　　　　　　　　&nbsp;Feb 2017 <br/>
 Kyonggi University, Suwon, South Korea
 
-B.S. in Computer Science　　　　　　　　　　　　　　　　　　　　　　　&nbsp;Feb 2015 <br/>
+B.S. in Computer Science　　　　　　　　　　　　　　　　　　　　　　　&nbsp;&nbsp;Feb 2015 <br/>
 Kyonggi University, Suwon, South Korea
 
 ## Military Service
