@@ -50,7 +50,7 @@ Intelligent Robot Architecture, Task and Motion Planning, Neural-Logic Reinforce
 · 2015.03 - 2016.02, WiseKB: Big data based self-evolving knowledge base and reasoning platform, funed by Institute for Information & communications Technology Promotion(IITP, Korea).
 
 ## Skill
-· Programming Lanuage: Python, Java
+· Programming Language: Python, Java
 
 · Deep Learning/Reinforcement Learning: TensorFlow, TensorFlow2, Pytorch, RLlib, OpenAI Gym
 
