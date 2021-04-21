@@ -19,7 +19,7 @@ Air Force, South Korea　　　　　　　　　　　　　　　　　　　&
 ## Work History
 Postdoctorial Fellow　　　　　　　　　　　　　　　　　　　　　Mar 2020 - Feb 2021
 
-Artificial Intelligence Laboratory, Kyonngi University
+Artificial Intelligence Laboratory, Kyonggi University
 
 ## Certification and License
 · 정보처리기사 (Information Processing Engineer, South Korea)
