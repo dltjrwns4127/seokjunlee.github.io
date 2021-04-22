@@ -39,9 +39,9 @@ Intelligent Robot Architecture, Task and Motion Planning, Neural-Logic Reinforce
 ## Project
 ·  2020.04 - 2021.02. Robot task planning for single and multiple robots connected to a cloud system, funed by Institute for Information & communications Technology Promotion(IITP, Korea).
 
-· 2018.04 - 2019.12, Development of robot hand manipulation intelligence to learn methods and procedures for handling various objects with tactile robot hands, funed by Institute for Information & communications Technology Promotion(IITP, Korea).
+· 2017.04 - 2021.02, Development of manipulation technologies in social contexts for human-care service robots, funded by the Ministry Of Trade, Industry & Energy(MOTIE, Korea).
 
-· 2017.04 - 2020.11, Development of manipulation technologies in social contexts for human-care service robots, funded by the Ministry Of Trade, Industry & Energy(MOTIE, Korea).
+· 2018.04 - 2019.12, Development of robot hand manipulation intelligence to learn methods and procedures for handling various objects with tactile robot hands, funed by Institute for Information & communications Technology Promotion(IITP, Korea).
 
 · 2015.12 - 2019.11, A robot intelligence software framework as an open and self-growing intergration foundation of intelligence and knowledge for personal service robots, funded by the Ministry Of Trade, Industry & Energy(MOTIE, Korea).
 
