@@ -17,9 +17,9 @@ Kyonggi University, Suwon, South Korea
 Air Force, South Korea　　　　　　　　　　　　　　　　　　　&nbsp;&nbsp;&nbsp;Jun 2010 - Jul 2012
 
 ## Work History
-Postdoctorial Fellow                                                                                                            Mar 2020 - Feb 2021
+Senior Researcher　　　　　　　　　　　　　　　　　　　　　　Jun 2021 - Present
 
-Artificial Intelligence Laboratory, Kyonggi University
+Application and Control Research Team Robotics Research Institute, Hyundai Robotics
 
 Postdoctorial Fellow　　　　　　　　　　　　　　　　　　　　　Mar 2020 - Feb 2021
 
